@@ -22,3 +22,4 @@ out.print("</table>");
 <a href="view.jsp?page=2">2</a>
 <a href="view.jsp?page=3">3</a>
 out.println("hiii");
+rere3232
