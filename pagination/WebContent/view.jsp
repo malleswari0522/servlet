@@ -5,8 +5,9 @@ int pageid=Integer.parseInt(spageid);
 int total=2;  
 if(pageid==1){}  
 else{  
-    pageid=pageid-1;  
-    pageid=pageid*total+1;  
+    pageid=pageid-;  
+    pageid=pageid*total+;  
+    
 }  
 List<Emp> list=EmpDao.getRecords(pageid,total);  
   
